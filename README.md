@@ -325,6 +325,8 @@ For the final step, I export all the four graph to one single html file and ask 
 ![image](./md/problem3/example_graph.png)
 Pic. example_graph.png
 
+An example of full graph could be access [here](https://htmlpreview.github.io/?https://github.com/900202eric/qsearch_pretest/blob/main/problem3/p_graph.html).
+
 ## [Drawback](#)
 
 - Crawling Process

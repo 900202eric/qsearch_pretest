@@ -90,7 +90,7 @@ if __name__ == '__main__':
     commentFig = plotlyPlot('commentCount', df)
     
     with open(filePath + 'p_graph.html', 'w') as f:
-        f.write(playFig.to_html(full_html=False, include_plotlyjs='cdn', div_id='playCount'))
+        f.write(playFig.to_html(full_html=False, include_plotlyjs=True, div_id='playCount'))
         f.write(collectFig.to_html(full_html=False, include_plotlyjs='cdn', div_id='collectCount'))
         f.write(diggFig.to_html(full_html=False, include_plotlyjs='cdn', div_id='diggCount'))
         f.write(commentFig.to_html(full_html=False, include_plotlyjs='cdn', div_id='commentCount'))
