@@ -325,7 +325,7 @@ For the final step, I export all the four graph to one single html file and ask 
 ![image](./md/problem3/example_graph.png)
 Pic. example_graph.png
 
-An example of full graph could be access [here](https://htmlpreview.github.io/?https://github.com/900202eric/qsearch_pretest/blob/main/problem3/p_graph.html).
+An example of full graph could be access [here](https://rawcdn.githack.com/900202eric/qsearch_pretest/96f85d3c47481e2b90cfc0c84b67ba2f9e07f800/problem3/p_graph.html).
 
 ## [Drawback](#)
 
