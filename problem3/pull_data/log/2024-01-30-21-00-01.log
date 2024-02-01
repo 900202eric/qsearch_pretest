@@ -1,0 +1,22 @@
+/home/huangweichen/qsearch/crawl.py:3: DeprecationWarning: 
+Pyarrow will become a required dependency of pandas in the next major release of pandas (pandas 3.0),
+(to allow more performant data types, such as the Arrow string type, and better interoperability with other libraries)
+but was not found to be installed on your system.
+If this would cause problems for you,
+please provide us feedback at https://github.com/pandas-dev/pandas/issues/54466
+        
+  import pandas as pd
+------------------------------------------------------------------------------------------------------------------------
+Number of getting stats after 2024-01-29 13:00:00 :  6
+------------------------------------------------------------------------------------------------------------------------
+                date |                   id |  collect |  comment |     like |       play | share | title             
+------------------------------------------------------------------------------------------------------------------------
+ 2024-01-30 09:00:00 |  7329724358304337153 |       30 |       10 |      394 |      10800 |    59 | 眼睛快要掉出來了啦X     
+ 2024-01-30 05:00:00 |  7329724145392995586 |      596 |       40 |     6626 |     128000 |   678 | 我嚇我自己，是個狠人     
+ 2024-01-30 03:11:19 |  7329723635936021761 |       60 |        9 |     1264 |      51700 |   105 | 這保溫應該會熱騰騰的     
+ 2024-01-30 02:00:00 |  7329460326351588616 |        8 |        4 |      164 |       9669 |    13 | 員警攔查四海幫海雲堂     
+ 2024-01-30 00:00:00 |  7329411294765894913 |       61 |       30 |     1616 |      74900 |    75 | 這個鬼蹭...我到底     
+ 2024-01-29 14:00:00 |  7329459501197774087 |        5 |        0 |       94 |       5369 |     3 | 藝人炎亞綸現身士林地     
+
+Successfully export data to data/1706619607.csv
+
